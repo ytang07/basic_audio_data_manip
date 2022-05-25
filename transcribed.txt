@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "8e82df64-a3c8-4adf-9c92-82e0b048d96c",
+        "sha256": "85b5787f53247303e39eb4b3d0e09a36a29af3d77499ff1e540bcf5c94769bab",
+        "created": "2022-05-24T17:10:32.243Z",
+        "duration": 2.995375,
+        "channels": 1,
+        "models": [
+            "4899aa60-f723-4517-9815-2042acc12a82"
+        ]
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "boom a a boom.",
+                        "confidence": 0.8852539,
+                        "words": [
+                            {
+                                "word": "boom",
+                                "start": 0.6976667,
+                                "end": 1.1976666,
+                                "confidence": 0.98291016,
+                                "punctuated_word": "boom"
+                            },
+                            {
+                                "word": "a",
+                                "start": 1.6146001,
+                                "end": 1.9734,
+                                "confidence": 0.58203125,
+                                "punctuated_word": "a"
+                            },
+                            {
+                                "word": "a",
+                                "start": 1.9734,
+                                "end": 2.2126,
+                                "confidence": 0.8852539,
+                                "punctuated_word": "a"
+                            },
+                            {
+                                "word": "boom",
+                                "start": 2.2126,
+                                "end": 2.4916668,
+                                "confidence": 0.99365234,
+                                "punctuated_word": "boom."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
